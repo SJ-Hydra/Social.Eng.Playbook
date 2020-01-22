@@ -1,0 +1,20 @@
+## Social Engineering Test Kick-off Discussion/Questions
+
+## Review scope, authorization form
+
+## Questons
+
+- At a high-level can you describe the employees that you'd like targeted for the phishing campaign?  
+
+- What is the objective of the phishing campaign?
+    - Would you like me to attempt to steal credentials, gain remote access to devices, or steal other sensitive data?
+    
+- Would you like me to perform vishing as well?
+
+- Would you like to provide me with emails and phone numbers or would you like me to conduct recon to discover this material?
+
+- How often and through which mechanism would you like me to communicate updates?
+
+
+
+
