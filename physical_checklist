@@ -1,0 +1,78 @@
+This is my process for physical security penetration testing. 
+
+## Card 'get out of jail free card' at all times during the engagement. In addition, have multiple means of communication (to include cell phone) for the approving employee and the authorization form.
+
+## Carry: Cell phone, Backpack, networking tap, bash bunny, fake ID, two forms of real/valid identification, and all appropriate forms. 
+
+## Building operating hours should be noted. Time permitting, visiting the building during operating hours and during non-operating hours should be conducted by the tester. The tester should wear clothes fitting the decided pretext for the engagement.
+
+- RECON: What is the geography of the building?
+- RECON: What are the buildings operating hours?
+- RECON: What are the buildings security mechanisms and purpose?
+
+- PERIMETER: Is there a vehicle/pedestrian control point (CP) or can you drive/walk up to the building front door?
+    - If so, is the CP monitored? If not, can you circumvent the turnstyle or vehicle security mechanism?
+    - Can you tailgate into the permimeter interior?
+  
+- PERIMETER: Is there a perimeter fence?
+    - If so, is the permeter fence high enough? Are there gaps? Is the fence monitored or have an attached deterent (e.g constantine wire)? Can it be climbed?
+
+- NON-STANDARD ENTRANCE: Are there windows?
+    - Are the windows locked? Can they be broken? (Clarification: Expensive building security mechanisms should not be broken, a $5 pane glass window is acceptable to break; refer to kick-off discussion with client.) 
+    - Is there sensitive data that can be seen through the window from a telephoto lense?
+    - Are computer screens facing the windows which can be seen?
+
+- NON-STANDARD ENTRANCE: Is there an unattended door?
+    - Is it unlocked?
+    - Can it be unlocked?
+    - Can you tailgate into the building? 
+
+- NON-STANDARD ENTRANCE: Does the building have a utility roof?
+    - Can the building roof be accessed from the ground or an accompanying building?
+
+- STANDARD ENTRANCE: Does the building have a pedestrian entrance that is accessible without credentials?
+    - Is the pedestrian entrance manned or monitored? 
+    
+- STANDARD ENTRANCE: Is the building set-up for visitors?
+    - Can an appointment be easily made with a manufactured reason?
+ 
+- STANDARD ENTRANCE: If the pedestrian entrance is staffed a security guard, can you use a manufactured pretense to get access to the building?
+    * Example: I'm here for an interview.
+    * Example: My friend works for 'organization,' I'm here to visit them.
+    * Example: I am a prospective client for 'organization.'
+    * Example: I am here to do repairs on <insert network equipment>.
+    - If pretense is accepted, does the security guard log a valid government ID?
+    - Does the security guard escort you to/from the point of contact?
+
+- BUILDING PURPOSE: Is the building multitenant?
+    - If so, can you use any one of the tenants to gain access to the entire building?
+    * Example: Make an appointment through a tenant that is not the target in order to gain access to the building. 
+
+- BUILDING PURPOSE: Is there an easy business case to enter the building?
+    * Example: Food vendor within the building.
+
+- INTERIOR: With access to the building, are there unprotected networking ports?
+    - Does plugging into the network permit access to corporate resources?
+    
+- INTERIOR: Are there accessible Wifis?
+    - Are they configured using weak encryption ciphers?
+    - Does the Wifi naming convention leak information that can be used elsewhere?
+    
+- INTERIOR: Are there server rooms?
+    - Does the server room have locked doors?
+    - Does the server room have drop ceilings?
+    
+- INTERIOR: Do personnel stop and question your purpose for being in sensitive areas?
+
+## CONCLUSION: Document security controls and/or flaws with camera. 
+
+## CONCLUSION: Leave evidence of breach if successful. A business card is an easy and appropriate solution. 
+
+
+
+
+
+
+
+
+
