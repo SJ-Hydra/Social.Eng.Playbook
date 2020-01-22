@@ -4,7 +4,7 @@ Social Engineering (v.): manipulating a victim to perform a single or a series o
 	Ex: Phishing is the most common form of social engineering. 
   
 ## Set-up
-Prior to conducting social engineering attacks, be sure to limit, as much as possible, the direct involvement with the target. This includes leaving tracks on digital infrastructure or physical indications on cameras. For digital reconnaissance, use remote infrastructure, virtual private networks, or some other form of intermediary. Likewise, for physical recon, use an intermediary.
+Prior to conducting social engineering attacks, be sure to limit, as much as possible, the direct involvement with the target.     This includes leaving tracks on digital infrastructure or physical indications on cameras. For digital reconnaissance, use remote infrastructure, virtual private networks, or some other form of intermediary. Likewise, for physical recon, use an intermediary.
 ## Recon:
 To begin, conduct a good amount of reconnaissance on the target.  The most effective social engineering attack includes accurate content that can aide the authentic ‘feel’ of the material directed to the victim. For example, phishing should include the correct jargon, corporate language, or business verbiage.  This eases the victim’s absorption of the information which results in lower amounts of suspicion. A less suspicious victim is more prone to carryout following actions, like continuing to read material or to perform clicks.   To obtain this information, research as much of the following items:
 - Job postings
