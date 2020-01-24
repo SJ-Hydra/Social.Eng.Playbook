@@ -6,6 +6,9 @@
 
 - At a high-level can you describe the employees that you'd like targeted for the phishing campaign?  
 
+- Can you describe how mail is presented to users?  Microsoft Outlook?
+    - Is there an email security product?
+
 - What is the objective of the phishing campaign?
     - Would you like me to attempt to steal credentials, gain remote access to devices, or steal other sensitive data?
     
