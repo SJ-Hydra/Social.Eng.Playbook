@@ -1,2 +1,2 @@
-# Social Engineer Testing; Phishing and Vishing Notes and Files Repository
+# Social Engineer Testing; Phishing, Vishing Notes and Files Repository
 This is my process for social engineering testing. There are likely to be items missing in the files that are derived from experience. Be sure to carry out the kick-off discussion using the attached questionaire and have all forms complete prior to commencing testing. Always have written permission from the system owner(s) before preforming penetration tests. 
