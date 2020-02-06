@@ -1,13 +1,12 @@
 # Psychology notes, resources
 
-## Phishing, Vishing: 
+## Phishing, Vishing: manipulating a person or persons to preform a certain action
 
     “People are generally overconfident about their ability to spot the fakes. Overconfidence is a big problem in many human actions. In this case, this probably happens because the ratio of phishing emails to regular emails feels low, so our mind underestimates the probability of receiving a phishing email, and in turn, overestimates our ability to identify one if we do.” – Cleotilde Gonzalez, Ph. D.
-
     “Ultimately, urgency, familiarity, and context have a strong impact on decision making. If you already expect to receive emails from your boss at your office (context and familiarity), and you are accustomed to messages that request quick action (urgency), then you are likely to assume the message is real. It might never occur to you to suspect that it could be phishing.” – Cleotilde Gonzalez, Ph. D.
+    “Successful spear phishing emails apply psychological principles of influence – authority, commitment, liking, perceptual contrast, reciprocation, scarcity and social proof."
 
-Individuals prioritize emails from their boss, friend, or financial institution over all others.
-
+Individuals prioritize emails from their boss, friend, or financial institution over all others. Older women were found to be the most susceptible to phishing campaigns.  Spear phishing (one or a handful of individuals) is exponentially more successful than phishing. 
 
 ### Maximum Success Criteria
 
@@ -17,7 +16,7 @@ Individuals prioritize emails from their boss, friend, or financial institution 
 [ ] Require immediate response
 [ ] Familiar person or entity (e.g. a friend)
 [ ] Shared interest with individual (e.g. known hobby)
-[ ] Individuals name
+[ ] Targetted (e.g. Individual's name in use)
 
 [ ] Email, call delivered during periods of stress 
 [ ] Email, call delivered during periods of fatigue
@@ -27,10 +26,23 @@ Individuals prioritize emails from their boss, friend, or financial institution 
 [ ] Deals
 [ ] Illegal material
 [ ] Positive tones
-[ ] Incorrect 
+[ ] Incorrect verbiage
+[ ] Bulk campaign
 
 
+### Example Pretext
+    - CEO action,
+	- Parking Pass revoked,
+	- Paycheck delayed,
+    - Bank account compromised, 
+	- Vacation time canceled,
+	- Federal holiday payed time off canceled, 
+	- Alumni Event,
+	- Loss of prospective client
+	- Crime currently happening in the area.
 
 
+## Resources
 How to prevent phishing by studying the psychology behind digital fraud - https://www.techrepublic.com/article/how-to-prevent-phishing-by-studying-the-psychology-behind-digital-fraud/
 The Truth about Phishing & the Psychology of Why We Click - https://www.webroot.com/blog/2019/10/31/the-truth-about-phishing-the-psychology-of-why-we-click/
+Phishers Play on Emotions to Fool Victims - https://duo.com/decipher/phishers-play-on-emotions-to-fool-victims
