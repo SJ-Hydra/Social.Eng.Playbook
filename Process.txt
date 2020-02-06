@@ -19,7 +19,13 @@
 
 
 ## Generate Infrastructure
-[ ] 
+[ ] Purchase domain with legitimate 'feel'
+[ ] Purchase associated email
+[ ] Lauch AWS web server instance
+[ ] Configure domain to point to AWS instance
+[ ] Configure Azure-edge to aide the reputation of the domain
+[ ] Configure web server 
+	- Enable 
 
 	- To start, purchase a domain with a legitimate ‘feeling’ domain name. 
 	- Purchase an email address that is associated with the domain name. 
