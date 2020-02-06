@@ -16,22 +16,28 @@
 [ ] Generate pretext, use psychology notes 
 	- If possible, consult verbiage 
 [ ] Test pretext by emailing controlled accounts or talking with individual unfamiliar with campaign
-
+[ ] Contact client, cordinate, ensure there are no concerns with the pretext. If phishing, provide copy of email. 
 
 ## Generate Infrastructure
 [ ] Purchase domain with legitimate 'feel'
 [ ] Purchase associated email
 [ ] Lauch AWS web server instance
+	[ ] Ensure firewall is appropriately configured (80/443 any:any)
 [ ] Configure domain to point to AWS instance
 [ ] Configure Azure-edge to aide the reputation of the domain
 [ ] Configure web server 
-	- Enable 
+	[ ] apt-get install Apache
+	[ ] service Apache2 start
+	[ ] Populate and construct webpages
+	[ ] Ensure web logging enabled
+[ ] Test webpages are populated aligning with pretext
 
-	- To start, purchase a domain with a legitimate ‘feeling’ domain name. 
-	- Purchase an email address that is associated with the domain name. 
-	
-With the email, send several test emails to an email address you control. Ensure that the email address delivers mail that looks legitimate. For instance, ensure the ‘name’ is rendered correctly and is not simply a repeat of the email address. 
-If your pretext requests the victim to click a hyperlink. 
-	- Spin up a server (for example, an EC2 instance) to host the web application or page.
-	- Register the server with the domain name, through whatever service you purchased the domain through. Alternatively, you can migrate the domain name and registration to cloudflare. 	
+## Test
+[ ] Test pretext end-to-end
 
+## Commence 
+[ ] Commence delivery of campaign
+
+## Conclude
+[ ] Alert client to conclusion of test
+[ ] Report on findings
