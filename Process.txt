@@ -1,33 +1,26 @@
-This is the explanation and process to create a phishing attack. 
+# Phishing, vishing notes, process
 
-Social Engineering (v.): manipulating a victim to perform a single or a series of actions. 
-	Ex: Phishing is the most common form of social engineering. 
-  
-## Set-up
-Prior to conducting social engineering attacks, be sure to limit as much as possible the direct involvement with the target. This includes leaving tracks on digital infrastructure or physical indications on cameras. For digital reconnaissance, use remote infrastructure, virtual private networks, or some other form of intermediary. Likewise, for physical recon, use an intermediary.
-## Recon:
-To begin, conduct a good amount of reconnaissance on the target.  The most effective social engineering attack includes accurate content that can aide the authentic ‘feel’ of the material directed to the victim. For example, phishing should include the correct jargon, corporate language, or business verbiage.  This eases the victim’s absorption of the information which results in lower amounts of suspicion. A less suspicious victim is more prone to carryout following actions, like continuing to read material or to perform clicks. To obtain this information, research as much of the following items:
-- Job postings
-- Social Media (Twitter, Facebook, Instagram, etc.)
-- Geography (cartography, topology, etc.)
-- News (Popular Articles)
-	- News concerning the target directly (i.e. lawsuits, organization successes or failures, etc.),
-	- News concerning the geography (i.e. Ongoing commuter issues, etc.),
-	- News concerning surrounding entities (businesses, government, community affairs, etc.)
+## Admin
+[ ] Set-up burnable, non-affiliated infrastructure, AWS machine
+
+### Recon
+[ ] Job postings
+[ ] Social media (Twitter, Facebook, Instagram, etc.)
+[ ] Geography (cartography, topology, etc.)
+[ ] News (Popular Articles)
+	- News concerning the target directly (e.g. lawsuits, organization successes or failures, etc.),
+	- News concerning the geography (e.g. Ongoing commuter issues, etc.),
+	- News concerning surrounding entities (e.g. businesses, government, community affairs [news regarding the street outside the building], etc.)
+
 ## Pretext:
-With a solid understanding of the victim’s environment, information garnered through the recon phase, generate context. Context that generate a strong emotional reaction are more likely to reside with the victim. For example, if there are parking issues associated with the victim’s work environment, an email declaring the victim’s car is currently being towed or that the victim’s parking pass is revoked is likely to generate an emotional response.  Similarly, an email stating that pay checks will be delayed or current planned vacation time has been canceled would generate an emotional response. Example pretext includes the following:
-	- Parking Pass revoked,
-	- Paycheck delayed,
-	- Vacation time canceled,
-	- Federal holiday payed time off canceled, 
-	- Alumni Event,
-	- Prospective sales client,
-	- Crime currently happening in the area.
+[ ] Generate pretext, use psychology notes 
+	- If possible, consult verbiage 
+[ ] Test pretext by emailing controlled accounts or talking with individual unfamiliar with campaign
 
-For phishing draft the email in a word document and edit. Ensure there are no misspellings, grammatical errors, and the appropriate verbiage is in use. 
-Higher success rates for phishing are associated with emails with a personalized introduction. 
-## Infrastructure:
-With the specific pretext completed, create a custom payload and associative infrastructure for the attack. For example, in the scenario in which parking infraction is used as pretext, create a domain named “ParkingLot12.com” with an associated email “enforcement.” You may be able to find the specific name of the parking lot or you may use the specific road that the parking lot is located on to use in naming conventions. The aforementioned is only an example; customize to meet the appropriate target’s environment. Again, accurate details garner legitimacy. 
+
+## Generate Infrastructure
+[ ] 
+
 	- To start, purchase a domain with a legitimate ‘feeling’ domain name. 
 	- Purchase an email address that is associated with the domain name. 
 	
