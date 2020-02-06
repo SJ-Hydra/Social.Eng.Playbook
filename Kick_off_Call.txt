@@ -1,23 +1,42 @@
-## Social Engineering Test Kick-off Discussion/Questions
+# Social Engineering Test Kick-off Discussion & Questions
 
 ## Review scope, authorization form
 
-## Questons
+## Questions
 
-- At a high-level can you describe the employees that you'd like targeted for the phishing campaign?  
+[ ] At a high-level can you describe the employees that you'd like targeted for the social engineering campaign?  
 
-- Can you describe how mail is presented to users?  Microsoft Outlook?
-    - Is there an email security product?
 
-- What is the objective of the phishing campaign?
-    - Would you like me to attempt to steal credentials, gain remote access to devices, or steal other sensitive data?
+
+[ ] Can you describe how mail is presented to users?  Microsoft Outlook?
+    - Is there an email security product? If so, can you white-list or provide the email directly?
+
+
+
+[ ] What is the objective of the phishing campaign?
+    - We recommend that engagements with an objective of click counts are carried out. Instead, we recommend payload delivery, credential theft, or some other form of information theft to depict risk.  
+
+
+
+[ ] How many campaigns would you like carried out?
+
+
     
-- Would you like me to perform vishing as well?
-
-- Would you like to provide me with emails and phone numbers or would you like me to conduct recon to discover this material?
-
-- How often and through which mechanism would you like me to communicate updates?
+[ ] If the primary method is phishing, can I conduct vishing as well?
 
 
 
+[ ] Would you like to provide me with emails and phone numbers or would you like me to carry out recon? (Cost-benefit here)
 
+
+
+[ ] Can you confirm user-actions through your corporate logs?
+    - If so, who would the appropriate poc be for this action?
+
+
+
+[ ] Would you like to approve the phishing campaign material?
+
+
+
+[ ] How often and through which mechanism would you like me to communicate updates?
