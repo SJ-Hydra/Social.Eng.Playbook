@@ -4,6 +4,7 @@
 [ ] Set-up burnable, non-affiliated infrastructure, AWS machine
 
 ### Recon
+[ ] Social-Searcher.com
 [ ] Job postings
 [ ] Social media (Twitter, Facebook, Instagram, etc.)
 [ ] Geography (cartography, topology, etc.)
