@@ -29,10 +29,14 @@
 [ ] Would you like to provide me with emails and phone numbers or would you like me to carry out recon? (Cost-benefit here)
 
 
+[ ] Does your firewall rules prevent users from visiting certain websites or using certain services over the internet?
 
-[ ] Can you confirm user-actions through your corporate logs?
+
+[ ] Can you confirm user-actions through your logs?
     - If so, who would the appropriate poc be for this action?
 
+
+[ ] Do you have a phishing report process? For instance, a SOC personnel who would recieve reports of social engineering attacks?
 
 
 [ ] Would you like to approve the phishing campaign material?
